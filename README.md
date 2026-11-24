@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jhansi Lakshmi Bogilla!
+# 👋 Hi, I'm Jhansi Laxmi Bobila!
 
 <h3 align="center">Mainframe Developer | COBOL | JCL | DB2 | IBM z/OS</h3>
 
@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
-- 👩‍💻 Hi! I'm Jhansi Lakshmi Bogilla.
+- 👩‍💻 Hi! I'm Jhansi Laxmi Bobila.
 - 💻 Interested in Mainframe Technology and Software Development.
 - 🖥️ Learning COBOL and JCL.
 - 🗄️ Exploring DB2, CICS and VSAM.
