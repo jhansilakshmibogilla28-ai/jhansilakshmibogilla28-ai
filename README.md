@@ -61,13 +61,20 @@
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jhansilaxmi-mainframe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.credly.com/users/bobila-jhansi-laxmi">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
+  <a href="https://jhansilaxmi-mainframe.netlify.app/">
+    <img src="https://img.shields.io/badge/My_Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://github.com/jhansilakshmibogilla28-ai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
-<h3 align="center">✨ Learning Mainframe Technologies, One Step at a Time! ✨</h3>
-
-<p align="center">Thanks for visiting my profile! 💙</p>
+<p align="center">
+  💼 Let's connect, collaborate and grow together!
+</p>
